@@ -68,4 +68,4 @@ Thanks, @barinek
 
 # Project Execution
 `./gradlew clean build`
-
+`./gradlew test`

@@ -1,9 +1,11 @@
 .gradle
-build
-out
 .idea
 *.iml
 *.ipr
 *.iws
 .DS_Store
 .env*
+# ignore build directory
+build/
+bin/
+out/
