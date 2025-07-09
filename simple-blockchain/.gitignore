@@ -5,7 +5,7 @@
 *.iws
 .DS_Store
 .env*
-# ignore build directory
+# ignore build directories
 build/
 bin/
 out/

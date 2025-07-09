@@ -4,7 +4,7 @@
 *.ipr
 *.iws
 .DS_Store
-# ignore build directory
+# ignore build directories
 build/
 bin/
 out/
