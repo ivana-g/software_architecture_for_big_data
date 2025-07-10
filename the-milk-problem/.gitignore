@@ -1,0 +1,15 @@
+.gradle
+
+.idea
+*.iml
+*.ipr
+*.iws
+.DS_Store
+# ignore build directories
+build/
+bin/
+out/
+# ignore product-server bin directory
+applications/products-server/bin/
+# ignore product-server build directory
+applications/products-server/build/
