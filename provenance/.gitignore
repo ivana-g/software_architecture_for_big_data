@@ -8,3 +8,15 @@
 build/
 bin/
 out/
+applications/provenance-server/bin/
+applications/provenance-server/build/
+components/articles/build/
+components/articles/bin/
+components/endpoints/build/
+components/endpoints/bin/
+components/rest-support/build/
+components/rest-support/bin/
+components/rss-support/build/
+components/rss-support/bin/
+components/workflow-support/build/
+components/workflow-support/bin/

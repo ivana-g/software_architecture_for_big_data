@@ -11,5 +11,16 @@ bin/
 out/
 # ignore product-server bin directory
 applications/products-server/bin/
-# ignore product-server build directory
 applications/products-server/build/
+applications/simple-client/bin/
+applications/simple-client/build/
+components/database-support/build/
+components/database-support/bin/
+components/products/build/
+components/products/bin/
+components/test-support/build/
+components/test-support/bin/
+components/workflow-support/build/
+components/workflow-support/bin/
+
+
